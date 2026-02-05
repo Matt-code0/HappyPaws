@@ -4,13 +4,13 @@
 
 A modern, high-end website designed for a luxury dog hotel and SPA. This project emphasizes clean UI/UX, full responsiveness, and a professional front-end workflow.
 
-## 🚀 Tech Stack
+##  Tech Stack
 * **HTML5** – Semantic structure for better SEO and accessibility.
 * **SASS/SCSS** – Custom styling using variables, nesting, and mixins.
 * **Bootstrap 5** – Grid system, components, and interactive modals.
 * **JavaScript (ES6+)** – Logic for video handling and navigation.
 
-## ✨ Key Features
+##  Key Features
 - **Quick Booking:** A fully responsive form designed for seamless user conversion.
 - **Virtual Tour:** Integration with the **YouTube API** to showcase facility tours within a modal window.
 - **Dynamic Gallery:** Optimized crossfade carousel for elegant room presentations.
@@ -19,7 +19,7 @@ A modern, high-end website designed for a luxury dog hotel and SPA. This project
 ## 📸 Preview
 ![Project Homepage](images/nahled-webu.png)
 
-## 🛠️ Local Setup & Development
+##  Local Setup & Development
 1. Clone the repository:  
    `git clone https://github.com/Matt-code0/Bootstrap-Skolniprojekt.git`
 2. Open the project in VS Code.
