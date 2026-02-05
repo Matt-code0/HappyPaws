@@ -1,6 +1,6 @@
 # HappyPaws – Dog Hotel & SPA 🐾
 
-[🔗 Live Preview (Endora)](https://mhportfolio.endora.site/happypaws/)
+[🔗 Live Preview (Endora)](https://mhportfolio.endora.site/projects/happypaws/)
 
 A modern, high-end website designed for a luxury dog hotel and SPA. This project emphasizes clean UI/UX, full responsiveness, and a professional front-end workflow.
 
